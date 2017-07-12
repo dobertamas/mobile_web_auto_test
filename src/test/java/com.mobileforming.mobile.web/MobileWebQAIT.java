@@ -14,7 +14,6 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 @RunWith(JUnit4.class)
-//@ContextConfiguration("test-config.xml")
 public class MobileWebQAIT {
 
     @Test
